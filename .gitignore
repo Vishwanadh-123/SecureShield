@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
+wordlist.txt
+**/wordlist.txt
+*.zip
+reports/scan_report.csv
+reports/scan_report.json
+Evidence/
+Evidence_Backup/
